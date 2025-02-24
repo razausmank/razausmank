@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">👨‍💻 Experienced Software Engineer | I build cool shit with AI and Machine Learning 🤖 💡 Know a thing or two about Software Development and AI 🔍 On a journey to demystify AI and Machine Learning for everyone—including myself! 😅 🎓 I enjoy breaking down intricate concepts and showing others how AI and ML can be used to create can be used to make cool shit for the real world.</h3>
+👨‍💻 Experienced Software Engineer | I build cool shit with AI and Machine Learning 🤖 
+💡 Know a thing or two about Software Development and AI 
+🔍 On a journey to demystify AI and Machine Learning for everyone—including myself! 😅 
+🎓 I enjoy breaking down intricate concepts and showing others how AI and ML can be used to create can be used to make cool shit for the real world.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razausmank&label=Profile%20views&color=0e75b6&style=flat" alt="razausmank" /> </p>
 
