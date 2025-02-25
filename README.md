@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razausmank&label=Profile%20views&color=0e75b6&style=flat" alt="razausmank" /> </p>
 
 
-- 🔭 I’m currently working on **Bizmate**
+- 🔭 I’m currently working on **Bizmate**, which is an AI-driven business analyst that helps small-to-mid scale restaurant owners make data-driven decisions, manage operations efficiently, and boost profitability
+You upload all the documents of your business to the platform, the platform saves all the data in a vector database and then it allows the user to ask the AI platform questions about its businesses and the AI will answer in a couple of minutes as compared to a business analyst that might take hours or days to do the same task
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/razausmank/](https://www.linkedin.com/in/razausmank/)
 
