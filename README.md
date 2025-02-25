@@ -4,11 +4,9 @@
 🔍 On a journey to demystify AI and Machine Learning for everyone—including myself! 😅 <br />
 🎓 I enjoy breaking down intricate concepts and showing others how AI and ML can be used to create can be used to make cool shit for the real world. <br />
 
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razausmank&label=Profile%20views&color=0e75b6&style=flat" alt="razausmank" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razausmank" alt="razausmank" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Bizmate**
 
